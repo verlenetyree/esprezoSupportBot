@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "esprezosupportbot",
+  "private_key_id": "d550658b22aa45aaa9140e23209072ffde185bb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnfuPmmLfSwA92\n0InU4IfmNAe+R6SLaEeDQu2Re9qU/1hKfBTGkTok6uPiPu06cLR5lswJ5RHrv/Ie\nVu63e0KXavxPiUxP3D71EjNmvR3o6qL4Y6CbMjK+imi0f7jSLccGtx56eh0K8KLr\nrkjzfCtVq0E7wyVwNeBK8cBdRqkXX62T8HSj+grJFWe5IlsvRd4eMI6JUKGcRtp0\niK6REot6IWWMMPnBJZhnRN8/k/lkFXHhhQCaMM5jtkk9cQmswZ7RFkejlTMVs83E\nQhxNVtpvrnVT5zI/yuch3llrdw6+FH6Rj1ekEHqeTnXfB+G7DFXz7D0zoTFT5oHV\n5ahOV0tDAgMBAAECggEAAeu4YHQn4/NEVpOVpJylqzW1iemFv1G97mzBK80Lzf4P\no86VzKEluRsaQQWBfn72KDQiDm6MSSy1caZK5aJtj7xMkjQKNHA/Clv8aD/gSUPy\nPSmjw6Pa11c1N7yvOXZBX9EBxyMeeF2lpDR75iCxg9w2A75SfkEnBjT+oRM1CMKt\nl0lW75h6caItV7L0l4R72kpvQcZulrr8IbwYHaobPLfrpZEAI4k47nG0QQ8Uq5Ho\n700bXilYF8/dcZVJhQdr9LaqiUnC9VRLwZv8aF0/vG4Pw5X4aC2b0dp2GtPuZRvr\nf72VbufNb5V6hdX8LSJ4pT+++ZW6ZMutRlY0kBA8IQKBgQDcqHTBhSv/BwBr9XfT\npZtIyFAMjUDN8oD/Utafndx4T+gJAef7Vwsbnp0t2XEbSqLyxTztGDVkBJQQyayr\ngMzF0tFrWKRx/M+4WI+cEQCJotlbta9XcQ8wJEMfJB11UHDnhXbnbnEfRFbmJUAU\n1FYtr5diKluvJ+v2sDmWuyahZQKBgQDCUqQe5N7plOhelpoUjC0k97C/OdvtdSil\nmOnlecvyQm45NszhA3Ol7IuGEZWjNtip/tJyEp6aRWlmb4Gbmpq88Ki7AKh1G0Ox\n6gtJArLulPZ9uyX+QgLeYkKtzdj0qinRJSj+gCO04WBcyhvkqp3IYZFV0GmL6NA0\nxlKEnYQDhwKBgQDO4yctdvZsVB1CG9Hw4Bo7YI0lZ582OcRXIE1ZNQLMz2boYyAl\n2VPx3oLSxUg2ZYFojCP2zTbqAxzsrJq35riYVnTB6EevFHGSD37+vjY51jVjtnKj\nUr8BzU4duZfhMb3aZZm5niR0Q3gSqyRtIzV1+me+w6ZZEN492rb0K58pvQKBgDfy\nvUgb00ZjViftqn0iAtly6xOToAuVQNe02Br2305n6/5TFdfvO3vZSC6Yn4G3h9gi\nAwtO6xU1yOvyTNm1QLoHfD0jKl1VNT9jSE6EFWp1vyZiHMVA0jyfA92wt7dxyspp\nrYzg7eblQO5WToOe0ADifoq7j7f1lwSq2RVPmLO/AoGBALhCTG7zORzy7vN/Bep7\nAZxp+LRapXOQqMzkA/tr4Uf0BUTcLZpMWaK9IymAelJNZFHKE+rCytwu2w8vUBsH\ngfzpP6TlcbbWkTtjDHuCzB8X/ruKTBBKQtLQki4AZhFiklE9OavyPbyv0raAseoo\np14Rx+FNm9iuNYUvZVGoZii+\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-account@esprezosupportbot.iam.gserviceaccount.com",
+  "client_id": "106101373979620651631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-account%40esprezosupportbot.iam.gserviceaccount.com"
+}
