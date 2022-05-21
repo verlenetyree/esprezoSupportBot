@@ -236,7 +236,10 @@ def	button_reply_handler(update: Update, context: CallbackContext):
 		drafts = googlesheets.get_drafts(query.from_user.id)
 		context.user_data[0] = drafts
 		if (drafts == 0):
-			query.edit_message_text("У тебя пока нет черновиков")
+			reply_markup = InlineKeyboardMarkup(inline_keyboard = [
+					[InlineKeyboardButton("Назад в главное меню", callback_data = MENU)],
+			])
+			query.edit_message_text("У тебя пока нет черновиков", reply_markup)
 		else:
 			count = len(drafts)
 			if count > 1:
