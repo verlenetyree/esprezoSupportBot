@@ -10,7 +10,7 @@ from openpyxl.utils.cell import get_column_letter
 from config import SPREADSHEET_ID
 
 # Файл, полученный в Google Developer Console
-CREDENTIALS_FILE = 'config/creds.json'
+CREDENTIALS_FILE = '/home/vtyree/esprezoSupportBot/esprezoSupportBot/config/creds.json'
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets',
 		'https://www.googleapis.com/auth/drive']
 
